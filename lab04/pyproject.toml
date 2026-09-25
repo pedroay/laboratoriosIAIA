@@ -11,4 +11,5 @@ dependencies = [
     "matplotlib==3.10.8",
     "numpy==2.4.2",
     "tensorflow>=2.18.0",
+    "ipykernel>=7.3.0",
 ]
