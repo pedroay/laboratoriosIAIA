@@ -1,0 +1,6 @@
+pyproject.toml
+iaia_proyecto_cancer_mama.egg-info/PKG-INFO
+iaia_proyecto_cancer_mama.egg-info/SOURCES.txt
+iaia_proyecto_cancer_mama.egg-info/dependency_links.txt
+iaia_proyecto_cancer_mama.egg-info/requires.txt
+iaia_proyecto_cancer_mama.egg-info/top_level.txt

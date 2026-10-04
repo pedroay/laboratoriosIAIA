@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: iaia-proyecto-cancer-mama
+Version: 0.1.0
+Summary: Proyecto: Diagnóstico de cáncer de mama (tumor benigno vs. maligno) con redes neuronales
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: jupyter
+Requires-Dist: pandas==3.0.1
+Requires-Dist: seaborn==0.13.2
+Requires-Dist: matplotlib==3.10.8
+Requires-Dist: numpy==2.4.2
+Requires-Dist: tensorflow>=2.18.0
+Requires-Dist: ipykernel>=7.3.0

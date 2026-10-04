@@ -1,0 +1,15 @@
+[project]
+name = "iaia-proyecto-cancer-mama"
+version = "0.1.0"
+description = "Proyecto: Diagnóstico de cáncer de mama (tumor benigno vs. maligno) con redes neuronales"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "pandas==3.0.1",
+    "seaborn==0.13.2",
+    "matplotlib==3.10.8",
+    "numpy==2.4.2",
+    "tensorflow>=2.18.0",
+    "ipykernel>=7.3.0",
+]
