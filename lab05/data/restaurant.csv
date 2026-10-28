@@ -1,0 +1,13 @@
+example,alternate,bar,fri_sat,hungry,patrons,price,raining,reservation,type,wait_estimate,will_wait
+x1,yes,no,no,yes,some,$$$,no,yes,french,0-10,yes
+x2,yes,no,no,yes,full,$,no,no,thai,30-60,no
+x3,no,yes,no,no,some,$,no,no,burger,0-10,yes
+x4,yes,no,yes,yes,full,$,yes,no,thai,10-30,yes
+x5,yes,no,yes,no,full,$$$,no,yes,french,>60,no
+x6,no,yes,no,yes,some,$$,yes,yes,italian,0-10,yes
+x7,no,yes,no,no,none,$,yes,no,burger,0-10,no
+x8,no,no,no,yes,some,$$,yes,yes,thai,0-10,yes
+x9,no,yes,yes,no,full,$,yes,no,burger,>60,no
+x10,yes,yes,yes,yes,full,$$$,no,yes,italian,10-30,no
+x11,no,no,no,no,none,$,no,no,thai,0-10,no
+x12,yes,yes,yes,yes,full,$,no,no,burger,30-60,yes

@@ -1,0 +1,11 @@
+[project]
+name = "iaia-lab05"
+version = "0.1.0"
+description = "Laboratorio 05: Sistemas Basados en Conocimiento"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter",
+    "ydf",
+    "pandas",
+]
